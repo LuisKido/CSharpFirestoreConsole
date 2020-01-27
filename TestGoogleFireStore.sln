@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGoogleFireStore", "TestGoogleFireStore\TestGoogleFireStore.csproj", "{AAB6E365-7EB8-4DB9-83FC-2D13E931A8A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB6E365-7EB8-4DB9-83FC-2D13E931A8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB6E365-7EB8-4DB9-83FC-2D13E931A8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB6E365-7EB8-4DB9-83FC-2D13E931A8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB6E365-7EB8-4DB9-83FC-2D13E931A8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA6CF096-F086-4C00-8264-1BEC78B32B39}
+	EndGlobalSection
+EndGlobal
